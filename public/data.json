@@ -1,0 +1,74 @@
+[
+  {
+    "id": "63347200a5095934aa55cf18",
+    "picture": "https://images.pexels.com/photos/6339345/pexels-photo-6339345.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": "20-25",
+    "name": "Jumping Jacks",
+    "description": "Jump up, clap those hands, land, repeat. You might remember this exercise from your school days, and those love ‘em or hate ‘em gym classes.",
+    "time": 30
+  },
+  {
+    "id": "633472004a4a847e24affa47",
+    "picture": "https://www.aleanlife.com/wp-content/uploads/2021/09/crunch-kicks.jpeg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1",
+    "age": "20-30",
+    "name": "Crunch kicks",
+    "description": "Crunch kicks are a simple bodyweight exercise that doesn’t require any equipment apart from a comfortable exercise mat.",
+    "time": 30
+  },
+  {
+    "id": "633472002b7788cae0f746f1",
+    "picture": "https://ak.picdn.net/shutterstock/videos/1034441774/thumb/1.jpg?ip=x480",
+    "age": "20-25",
+    "name": "Cross ARM Crunches",
+    "description": "Crunches are an extremely effective compound-muscle ab exercise. When done correctly, they target your upper abdominal, ",
+    "time": 20
+  },
+  {
+    "id": "63347200c7bcbe658e1a0a75",
+    "picture": "https://img.livestrong.com/640/cme-data/getty%2F51780883272c474c9265289477e58ef3.jpg",
+    "age": "20-20",
+    "name": "Russian Twist",
+    "description": "Imagine a vertical line that runs through the body, neatly dividing it into halves. Any movement you make parallel with this line is done in the sagittal plane.",
+    "time": 20
+  },
+  {
+    "id": "6334720094fe7c6637d5944c",
+    "picture": "https://images.healthshots.com/healthshots/en/uploads/2022/01/10173515/mountain-climber.jpg",
+    "age": "20-22",
+    "name": "Mountain Climber",
+    "description": "If we talk about the major muscles, it caters to your core (both abs and oblique), glutes, thighs, and arms. And if you talk about minor muscle groups, it works on your entire body.",
+    "time": 30
+  },
+  {
+    "id": "633472002b89b1462c4e7161",
+    "picture": "https://bod-blog-assets.prod.cd.beachbodyondemand.com/bod-blog/wp-content/uploads/2018/11/P90X-Ab-Ripper-Pulse-Ups.jpg",
+    "age": "20-30",
+    "name": "Heels To The Heavens",
+    "description": "The core isn’t a single muscle. It’s a family of muscles that includes the internal and external obliques on the sides of your waist; the intercostals and serratus, around your ribs; the transverse abdominis, which girdles your lower trunk; and, of course, the showy rectus abdominis, or six-pack muscle, that bridges the gap between the front of your pelvis and your ribs.",
+    "time": 60
+  },
+  {
+    "id": "6334720022f7fb84d067e4e8",
+    "picture": "https://hips.hearstapps.com/hmg-prod/images/hdm119918mh15842-1545237096.png",
+    "age": "20-20",
+    "name": "Plank",
+    "description": "The exercise is so effective because you're harnessing one of your core's most key functions: bracing. Bracing in this case refers to the act of creating stability between the shoulder and hips. This is done to create intra-abdominal pressure to protect your spine. The plank is also important because you'll want to recreate the same posture and position during other exercises, like squats and deadlifts.",
+    "time": 30
+  },
+  {
+    "id": "6334720022f7fb84d067e4e9",
+    "picture": "https://julienquaglierini.com/wp-content/uploads/2021/07/russian-twist.jpg",
+    "age": "20-20",
+    "name": "Bent Leg Twist",
+    "description": "The russian twist can be done at body weight or with loads. Accessible to all, you can do it at home or in a gym, with or without fitness equipment. In a seated position, it consists in performing Bust rotations to strengthen the lateral muscles of the abdominal belt.",
+    "time": 20
+  },
+  {
+    "id": "6334720022f7fb84d067e4e10",
+    "picture": "https://phantom-marca.unidadeditorial.es/efa9740df47cff7f9466ea78fd720074/crop/0x93/899x599/resize/1320/f/jpg/assets/multimedia/imagenes/2022/01/19/16426036798831.jpg",
+    "age": "20-20",
+    "name": "Cobras",
+    "description": "To perform the standard push-up, you simply position your hands under your shoulders and put your toes on the floor. Align your hips so that your body makes a straight line from top to bottom and lower your chest to the floor by bending your elbows without letting your hips drop.",
+    "time": 30
+  }
+]

@@ -1,0 +1,11 @@
+.card img {
+  height: 120px;
+}
+
+button.btn {
+  background: #fd9ec1;
+  border: none;
+}
+button.btn:hover {
+  background: #e6a5bd !important;
+}
